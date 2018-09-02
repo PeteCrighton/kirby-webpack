@@ -72,7 +72,7 @@ Kirby-webpack wraps PHP and [Kirby CMS](http://getkirby.com) inside a full pre-c
 >`npm install` will also trigger the **Kirby Package Manager** : Kirby core, panel and plugins will be automatically installed right after an npm installation.
 
 ```sh
-$ git clone https://github.com/brocessing/kirby-webpack my-project
+$ git clone https://github.com/PeteCrighton/kirby-webpack my-project
 $ cd my-project
 $ npm install
 ```
