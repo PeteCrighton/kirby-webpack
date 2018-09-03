@@ -22,6 +22,7 @@ if (user.css.preprocessorLoader) {
     {
       loader: user.css.preprocessorLoader,
       options: {
+        includePaths: ['./node_modules'],
         sourceMap: true
       }
     }
