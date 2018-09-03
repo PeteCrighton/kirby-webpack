@@ -82,7 +82,7 @@ const devServer = {
   // See: http://php.net/manual/en/features.commandline.webserver.php#120449
   // You might need to change config/config.localhost.php into config.[YOURHOST].php
   // In order for kirby-webpack to continue working with your host
-  phpHost: 'localhost',
+  phpHost: '127.0.0.1',
 
   // Set this to true to display PHP logs in your terminal
   // /!\ does nothing if you use the `proxy` option
